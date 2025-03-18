@@ -12,8 +12,8 @@
  */
 :root {
   --bs-blue: #2937f0;
-  --bs-indigo: #6610f2;
-  --bs-purple: #9f1ae2;
+  --bs-indigo: red;
+  --bs-purple: red;
   --bs-pink: #d63384;
   --bs-red: #dc3545;
   --bs-orange: #fd7e14;
@@ -35,7 +35,7 @@
   --bs-gray-800: #343a40;
   --bs-gray-900: #212529;
   --bs-primary: #2937f0;
-  --bs-secondary: #9f1ae2;
+  --bs-secondary: red;
   --bs-success: #198754;
   --bs-info: #0dcaf0;
   --bs-warning: #ffc107;
@@ -2849,7 +2849,7 @@ textarea.form-control-lg {
 
 .btn-primary {
   --bs-btn-color: #fff;
-  --bs-btn-bg: #2937f0;
+  --bs-btn-bg: #3b8eed;
   --bs-btn-border-color: #2937f0;
   --bs-btn-hover-color: #fff;
   --bs-btn-hover-bg: #232fcc;
@@ -10837,7 +10837,7 @@ html {
 }
 
 .bg-gradient-primary-to-secondary {
-  background: linear-gradient(45deg, #2937f0, #9f1ae2) !important;
+  background: linear-gradient(45deg, #1c4c96, #97bdf5) !important;
 }
 
 .font-alt {
